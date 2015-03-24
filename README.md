@@ -1,2 +1,2 @@
 # NCTUCS-NA2015Spring-HW1
-A homework based on the riginal TwitchPlaysPokemon
+A homework based on the original TwitchPlaysPokemon
